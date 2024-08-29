@@ -162,14 +162,10 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.craftmend.openaudiomc</groupId>
-            <artifactId>openaudiomc-api</artifactId>
-            <version>6.10.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}\src\main\resources\openaudiomc-api.jar</systemPath>
-            <type>jar</type>
-            <optional>true</optional>
-        </dependency>
+  <groupId>com.craftmend.openaudiomc</groupId>
+  <artifactId>openaudiomc</artifactId>
+  <version>6.7.2</version>
+</dependency>
         <!--<dependency>
             <groupId>com.github.Mindgamesnl</groupId>
             <artifactId>OpenAudioMc</artifactId>
